@@ -1,0 +1,1 @@
+{"version":3,"file":"static/js/697.cdd8a971.chunk.js","mappings":"iKAMA,UAJiB,WACf,OAAOA,EAAAA,EAAAA,KAAA,OAAAC,SAAK,+BACd,C","sources":["pages/NotFound/NotFound.js"],"sourcesContent":["import React from \"react\";\n\nconst NotFound = () => {\n  return <div>This doesnt exist yet, ope.</div>;\n};\n\nexport default NotFound;\n"],"names":["_jsx","children"],"sourceRoot":""}
