@@ -31,7 +31,7 @@ const Home = () => {
         <Col>
           <ProfileButton
             logo={<FaDiscord className={styles.iconSmall} />}
-            href="#"
+            href="https://discord.com/api/oauth2/authorize?client_id=1070498284591923200&permissions=380104660992&scope=bot"
           >
             Add to Discord
           </ProfileButton>
